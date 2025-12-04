@@ -1,4 +1,4 @@
-# Brigade-des-sapeurs-pompiers-de-Londres
+# Brigade des sapeurs-pompiers de Londres
 
 La brigade des sapeurs-pompiers de Londres est l'une des plus importantes au monde, employant plus de 5 000 personnes et comptant plus de 100 casernes. L'incendie de la tour Grenfell, qui a fait plus de 70 victimes en 2017, a profondément modifié ses méthodes d'intervention, et la brigade s'efforce de respecter ses obligations, notamment certains objectifs précis.
 
